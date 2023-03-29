@@ -1,5 +1,5 @@
 # Taxy AI
-Taxy AI is an organization dedicated to revolutionizing the role that AI plays in human-computer interaction. On March 28th, 2023, Taxy AI released its first public project, a self-hosted browser extension with the ability to accomplish a user's natural language command by interacting with their browser.
+Taxy AI is an organization dedicated to revolutionizing the role that AI plays in human-computer interaction. Taxy AI currently offers a self-hosted browser extension with the ability to accomplish a user's natural language command by interacting with their browser.
 
 ![Oblivion](https://user-images.githubusercontent.com/41524992/228063437-e93e26ec-2daa-4d48-a88c-7b1b8a804248.gif)
 
